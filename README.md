@@ -6,11 +6,11 @@ I am a Semester 3 B.Sc. Data Science student currently building my foundations i
 
 I'm learning through hands-on practice and exploring areas including:
 
-* 🐍 Python
-* 🗄️ SQL
-* 📊 Data Analytics
-* 🤖 AI & Machine Learning
-* 📈 Data Visualization
+*  Python
+*  SQL
+*  Data Analytics
+*  AI & Machine Learning
+*  Data Visualization
 
 ### Currently Learning
 
